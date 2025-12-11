@@ -9,7 +9,7 @@ what cloud computing *actually is*, why Google’s platform model matters, how t
 
 ---
 
-## 1) ☁️ What “cloud computing” really means (NIST traits, explained)
+## 1) ☁️ What “cloud computing” really means
 
 Cloud is not “someone else’s server” — it’s a way of consuming IT with **five behaviors** that change your operating model:
 
